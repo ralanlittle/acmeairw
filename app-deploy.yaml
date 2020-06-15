@@ -59,6 +59,7 @@ metadata:
     stack.appsody.dev/id: java-openliberty
     stack.appsody.dev/version: 0.2.14
   name: acmeairw
+  namespace: acmeair
 spec:
   applicationImage: dev.local/acmeairw
   createKnativeService: false
