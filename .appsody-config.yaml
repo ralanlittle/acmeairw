@@ -1,3 +1,2 @@
-id: "20200615160517.11693300"
 project-name: acmeairw
 stack: docker.io/appsody/java-openliberty:0.2
